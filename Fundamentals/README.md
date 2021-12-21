@@ -50,7 +50,7 @@ easy way to refer to the different properties + functions that a value has
 
 - Blueprint to create an object with some fields(values) and methods(functions) to represent a thing
 
-### to run typescript inside browser use parcel bundler (mapProject)
+### to run typescript inside browser use parcel bundler (google map marker mapProject)
 
 > npm install -g parcel-bundler
 
